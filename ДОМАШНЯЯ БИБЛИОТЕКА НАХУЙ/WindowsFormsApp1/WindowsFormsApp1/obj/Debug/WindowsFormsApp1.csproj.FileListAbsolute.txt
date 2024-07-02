@@ -1,0 +1,20 @@
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\79537\source\repos\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ЭКЗАМЕН ЛОМА ЛОМА НАХУЙ\ДОМАШНЯЯ БИБЛИОТЕКА НАХУЙ\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
